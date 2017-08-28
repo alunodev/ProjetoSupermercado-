@@ -1,0 +1,2 @@
+# ProjetoSupermercado-
+aplicativo de varejo
